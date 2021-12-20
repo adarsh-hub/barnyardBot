@@ -1,0 +1,15 @@
+###########
+# site.title
+
+title:    'BarnyardBot'
+subtitle: 'Automating the barnyard harvesting process with Malmo'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+- LICENSE.md

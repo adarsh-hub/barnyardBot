@@ -7,3 +7,5 @@ type '!RATIO m:r:b' in chat to change the current resource ratio. m = milk, r = 
 for example, '!RATIO 1:0:0' tells the agent to collect milk and no red or blue wool
 
 TestVersions contains versions of the project that were used for experimenting. ratios.txt is required in the same directory for some of them.
+
+LINK: https://brandonmeyer.github.io/BarnyardBot/index.html
